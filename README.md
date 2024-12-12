@@ -43,7 +43,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sumathi1205/Infosys-project.git
+   git clone https://github.com/rajdeep-mondal-hub/Blood_Group_Identification_Rajdeep.git
    cd blood-group-identification
    ```
 
